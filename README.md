@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Criminal Network Analysis System
 ### *From Data to Justice: Uncovering hidden connections for a safer and smarter society.*
 
@@ -112,3 +113,7 @@ The application uses the official **`google-genai`** SDK with **`gemini-3.8-flas
 - **Hackathon**: Global Innovation Hackathon 2026 – Bharat Academix
 - **Team**: EliteCoders
 - **Submission Form**: https://forms.gle/Zr6C1DbVQmjXZ1G86
+=======
+# AI-Criminal-Network-Detection
+Ai powered system to analyse diverse data sources(such as police records, crime reports etc) to identify criminal networks.
+>>>>>>> cbf4cbeba049a2de79cc54efba4165d3441fa137
